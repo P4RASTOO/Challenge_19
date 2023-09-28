@@ -29,8 +29,6 @@ import streamlit as st
 from dataclasses import dataclass
 from typing import Any, List
 from web3 import Web3
-from yahoo_fin import stock_info as si # Get live price with Yahoo Finance: https://theautomatic.net/2018/07/31/how-to-get-live-stock-prices-with-python/
-
 
 w3 = Web3(Web3.HTTPProvider("HTTP://127.0.0.1:7545"))
 ################################################################################
@@ -92,28 +90,28 @@ from crypto_wallet import generate_account, get_balance, send_transaction
 candidate_database = {
     "Lane": [
         "Lane",
-        "0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0",
+        "0x2DC2594761Ad976523757Fca73B8D95064da68Cc",
         "4.3",
         0.20,
         "Images/lane.jpeg",
     ],
     "Ash": [
         "Ash",
-        "0x2422858F9C4480c2724A309D58Ffd7Ac8bF65396",
+        "0x7B4a2f3eB1B46a2D59496F70416085e574358f7b",
         "5.0",
         0.33,
         "Images/ash.jpeg",
     ],
     "Jo": [
         "Jo",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0xccB051573b34cea044dCCC8830178CdE98054d59",
         "4.7",
         0.19,
         "Images/jo.jpeg",
     ],
     "Kendall": [
         "Kendall",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0xcAAb203E606B19615D259765D2A4A7F18fB5630F",
         "4.1",
         0.16,
         "Images/kendall.jpeg",
