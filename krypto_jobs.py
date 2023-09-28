@@ -309,7 +309,7 @@ if st.sidebar.button("Send Transaction"):
 
 # The function that starts the Streamlit application
 # Writes KryptoJobs2Go candidates to the Streamlit page
-get_people(w3)
+get_people()
 
 ################################################################################
 # Step 3: Inspect the Transaction
