@@ -24,7 +24,7 @@ To Improve User Instructions: We may nclude clear and concise instructions withi
 For Gas Price Optimization: We can consider implementing dynamic gas price estimation to ensure that transactions are processed efficiently on the Ethereum network.
 Overall, the cryptocurrency wallet application serves as a valuable tool for KryptoJobs2Go customers to manage their Ethereum transactions effectively.
 
-###Demo of App, left side start up/app demo and right side Ganache accounts are displayed:
+### Demo of App, left side start up/app demo and right side Ganache accounts are displayed in below link:
 https://github.com/P4RASTOO/Challenge_19/assets/132952512/713428a8-abe9-47c7-930a-9f30c28e35ae
 
 
