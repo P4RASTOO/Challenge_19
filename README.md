@@ -3,7 +3,7 @@
 
 # Challenge_18 Report
 ## Overview of the Analysis:
-The analasys represents a cryptocurrency wallet application designed for KryptoJobs2Go customers. It allows users to perform various tasks related to Ethereum transactions, including creating an Ethereum account, checking the account balance, calculating the total value of a transaction, digitally signing a transaction, and reviewing transaction details on the Ganache blockchain. A breakdown the stages of process include:
+The analysis represents a cryptocurrency wallet application designed for KryptoJobs2Go customers. It allows users to perform various tasks related to Ethereum transactions, including creating an Ethereum account, checking the account balance, calculating the total value of a transaction, digitally signing a transaction, and reviewing transaction details on the Ganache blockchain. A breakdown the stages of process include:
 
 1)   Importing Ethereum Transaction Functions: In this stage, the code imports necessary functions from the crypto_wallet.py script to facilitate Ethereum wallet operations. These functions include generating an Ethereum account, checking the account balance, and sending transactions.
 2)   KryptoJobs2Go Candidate Information: This stage initializes a database of KryptoJobs2Go candidates, including their names, Ethereum addresses, ratings, and hourly costs per Ether. It also creates a Streamlit interface for displaying candidate information to users.
