@@ -32,3 +32,7 @@ https://github.com/P4RASTOO/Challenge_19/assets/132952512/713428a8-abe9-47c7-930
 
 ### Transactions on Ganache:
 <img width="1062" alt="Screenshot 2023-09-28 at 11 48 32 PM" src="https://github.com/P4RASTOO/Challenge_19/assets/132952512/dfd45aab-8d8f-420a-bd61-8b4aeb097f21">
+
+### Sidebar Streamlit:
+<img width="511" alt="Screenshot 2023-09-28 at 11 54 45 PM" src="https://github.com/P4RASTOO/Challenge_19/assets/132952512/0e36755f-3f49-455b-998c-d80f3d3e79ef">
+
