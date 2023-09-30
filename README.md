@@ -1,7 +1,7 @@
 
 <img width="584" alt="Screenshot 2023-09-28 at 11 05 17 PM" src="https://github.com/P4RASTOO/Challenge_19/assets/132952512/0dc013a0-c05f-4f75-a6b9-3b5b45bf1cf8">
 
-# Challenge_18 Report
+# Challenge_19 Report
 ## Overview of the Analysis:
 The analysis represents a cryptocurrency wallet application designed for KryptoJobs2Go customers. It allows users to perform various tasks related to Ethereum transactions, including creating an Ethereum account, checking the account balance, calculating the total value of a transaction, digitally signing a transaction, and reviewing transaction details on the Ganache blockchain. A breakdown the stages of process include:
 
@@ -20,7 +20,7 @@ The application's user interface is built using Streamlit, making it easy for us
 The application provides a user-friendly interface for interacting with Ethereum blockchain transactions. Users can hire KryptoJobs2Go candidates, calculate payments in Ether, and initiate payments securely. It also integrates with the Ganache blockchain for transaction validation.
 
 ## Recommendation:
-To Improve User Instructions: We may nclude clear and concise instructions within the application to guide users through the process of hiring candidates and sending transactions.
+To Improve User Instructions: We may include clear and concise instructions within the application to guide users through the process of hiring candidates and sending transactions.
 For Gas Price Optimization: We can consider implementing dynamic gas price estimation to ensure that transactions are processed efficiently on the Ethereum network.
 Overall, the cryptocurrency wallet application serves as a valuable tool for KryptoJobs2Go customers to manage their Ethereum transactions effectively.
 
